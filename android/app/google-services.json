@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14444212940",
+    "project_id": "wallet-blockchain",
+    "storage_bucket": "wallet-blockchain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14444212940:android:cef26affd21f3fa706c869",
+        "android_client_info": {
+          "package_name": "com.example.wallet_blockchain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14444212940-n7hkmqg54dckh4p9p1m41bbmspur56sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY9P7tjuJSJHb-oLmCYzt-GTBWfaNbj7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14444212940-n7hkmqg54dckh4p9p1m41bbmspur56sr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
